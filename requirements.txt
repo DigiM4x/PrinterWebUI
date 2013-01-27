@@ -1,5 +1,0 @@
-flask>=0.9
-numpy>=1.6.2
-pyserial>=2.6
-tornado>=2.4.1
-tornadio2>=0.0.4
